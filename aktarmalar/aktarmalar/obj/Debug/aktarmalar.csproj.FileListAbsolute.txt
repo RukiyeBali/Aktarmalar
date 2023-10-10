@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\aktarmalar\aktarmalar\bin\Debug\aktarmalar.exe.config
+C:\Users\User\Desktop\aktarmalar\aktarmalar\bin\Debug\aktarmalar.exe
+C:\Users\User\Desktop\aktarmalar\aktarmalar\bin\Debug\aktarmalar.pdb
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.Form1.resources
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.Properties.Resources.resources
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.exe
+C:\Users\User\Desktop\aktarmalar\aktarmalar\obj\Debug\aktarmalar.pdb
